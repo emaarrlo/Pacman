@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta http-equiv="Refresh" content="5;url=./Index.html">
+<meta http-equiv="Refresh" content="5;url=https://emaarrlo.github.io/Pacman/Index.html>"
 </head>
 
 <body>
