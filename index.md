@@ -1,9 +1,15 @@
+
 <html>
-<head>
-<meta http-equiv="Refresh" content="5;url=https://emaarrlo.github.io/Pacman/Index.html>"
-</head>
+
+<script type="text/javascript">
+function redireccionar(){
+  window.locationf="https://emaarrlo.github.io/Pacman/Index.html";
+} 
+setTimeout ("redireccionar()", 5000); 
+
+</script>
 
 <body>
-Se redireccions 
+Se redireccions en 5 segundod
 </body>
 </html>
